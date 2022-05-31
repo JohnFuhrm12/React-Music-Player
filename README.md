@@ -1,2 +1,2 @@
 # React-Music-Player
-A music player using React.js and the Spotify Api.
+A music player using React.js, Node.js, Express and the Spotify Api.
